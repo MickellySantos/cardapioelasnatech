@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+* {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0%;
+    padding: 0%;
+}
+
+body, html {background-image: linear-gradient(to left, rgb(255, 251, 0),rgb(245, 242, 99),rgba(252, 252, 95, 0.904),rgb(243, 195, 62));
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;text-align: center
+}
+
+    header {font-style: oblique;
+    text-align: center;
+}
+
+    h3 {font-style: normal;
+    width: 60%;
+    text-decoration: underline; 
+    color: rgb(6, 70, 14);
+    margin-bottom: 1%;
+    text-align: center;
+}
+
+    .item {
+        width:50%;
+        text-align: center;
+        border: 20px solid rgb(252, 194, 3);
+        margin: auto;
+        margin-top: 2%;
+        padding: 2px;
+        border-radius: 2px;
+}
+
+    footer {
+        clear:both;
+        text-align:center;
+}
